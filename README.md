@@ -1,11 +1,11 @@
 ***BSBL: BASEBALL SIGNINGS BETWEEN LEAGUES***  
-Data Visualization project  
+    -- Data Visualization project  
 ***Please visit: http://www.dandiw.com/#/bsbl/ for detail information***  
 
 
-MOTIVATION:
-1. Spring Training
-2. Lot of Trades now
+MOTIVATION:  
+  1. Spring Training
+  2. Lot of Trades now
 
 MAIN PROBLEM:  
 Is there a correlation between the World Series winner and trades?
