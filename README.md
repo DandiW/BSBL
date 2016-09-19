@@ -3,13 +3,17 @@ Data Visualization project
 Please visit: http://www.dandiw.com/#/bsbl/ for detail information
 
 
-MOTIVATION
+MOTIVATION:
 
 Spring Training
 Lot of Trades now
-MAIN PROBLEM: Is there a correlation between the World Series winner and trades?
 
-TOOLS
+MAIN PROBLEM:
+
+Is there a correlation between the World Series winner and trades?
+
+TOOLS:
+
 MLB API (Dataset of teams)
 D3.js
 SQLite and Flask
