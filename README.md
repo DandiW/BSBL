@@ -1,23 +1,20 @@
-BSBL: BASEBALL SIGNINGS BETWEEN LEAGUES
-Data Visualization project
-Please visit: http://www.dandiw.com/#/bsbl/ for detail information
+***BSBL: BASEBALL SIGNINGS BETWEEN LEAGUES***  
+Data Visualization project  
+***Please visit: http://www.dandiw.com/#/bsbl/ for detail information***  
 
 
 MOTIVATION:
+1. Spring Training
+2. Lot of Trades now
 
-Spring Training
-Lot of Trades now
-
-MAIN PROBLEM:
-
+MAIN PROBLEM:  
 Is there a correlation between the World Series winner and trades?
 
-TOOLS:
-
-MLB API (Dataset of teams)
-D3.js
-SQLite and Flask
-Web Server (open to public)
+TOOLS:  
+MLB API (Dataset of teams)  
+D3.js  
+SQLite and Flask  
+Web Server (open to public)  
 
 
 
