@@ -1,5 +1,7 @@
 BSBL: BASEBALL SIGNINGS BETWEEN LEAGUES
 Data Visualization project
+Please visit: http://www.dandiw.com/#/bsbl/ for detail information
+
 
 MOTIVATION
 
